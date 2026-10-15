@@ -1,4 +1,5 @@
 # git lab project (main branch version)
 # git lab project (feature branch version)
 "edited directly on github"
-temporary line to remove later
+## Description
+A hands-on lab repository for practicing Git and GitHub.
